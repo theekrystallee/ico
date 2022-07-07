@@ -1,1 +1,1 @@
-# ico
+## Initial Coin Offering
